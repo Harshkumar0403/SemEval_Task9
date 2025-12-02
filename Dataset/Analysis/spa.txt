@@ -1,0 +1,36 @@
+Language: spa
+Total Samples: 3305
+
+Label Distribution:
+  Other: 443 (13.40%)
+  Racial/Ethnic: 623 (18.85%)
+  Religious: 525 (15.89%)
+  Political: 901 (27.26%)
+  Gender/Sexual: 443 (13.40%)
+
+Dominant Class: Political
+
+Zero-label instances: 1645
+Single-label instances: 636
+Multi-label instances: 1024
+
+Text Length Stats (word count):
+  Average length: 10.81
+  Min length: 2
+  Max length: 27
+
+Emoji Statistics:
+  Total Emojis: 717
+  Top Emojis:
+    # : 243
+    0 : 112
+    2 : 107
+    1 : 74
+    5 : 37
+    4 : 29
+    3 : 26
+    9 : 22
+    6 : 20
+    8 : 16
+
+Analysis Complete.

@@ -1,0 +1,36 @@
+Language: amh
+Total Samples: 3332
+
+Label Distribution:
+  Other: 826 (24.79%)
+  Political: 2226 (66.81%)
+  Religious: 66 (1.98%)
+  Racial/Ethnic: 864 (25.93%)
+  Gender/Sexual: 19 (0.57%)
+
+Dominant Class: Political
+
+Zero-label instances: 814
+Single-label instances: 1223
+Multi-label instances: 1295
+
+Text Length Stats (word count):
+  Average length: 15.41
+  Min length: 3
+  Max length: 31
+
+Emoji Statistics:
+  Total Emojis: 1637
+  Top Emojis:
+    # : 810
+    2 : 195
+    0 : 191
+    1 : 133
+    3 : 76
+    4 : 60
+    7 : 49
+    5 : 46
+    9 : 34
+    6 : 25
+
+Analysis Complete.

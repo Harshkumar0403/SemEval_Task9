@@ -1,0 +1,34 @@
+Language: ita
+Total Samples: 3334
+
+Label Distribution:
+  Religious: 285 (8.55%)
+  Racial/Ethnic: 746 (22.38%)
+  Gender/Sexual: 381 (11.43%)
+
+Dominant Class: Racial/Ethnic
+
+Zero-label instances: 1966
+Single-label instances: 1324
+Multi-label instances: 44
+
+Text Length Stats (word count):
+  Average length: 23.33
+  Min length: 2
+  Max length: 63
+
+Emoji Statistics:
+  Total Emojis: 4179
+  Top Emojis:
+    # : 1876
+    0 : 486
+    2 : 258
+    1 : 251
+    5 : 148
+    3 : 132
+    4 : 122
+    7 : 89
+    6 : 82
+    8 : 70
+
+Analysis Complete.

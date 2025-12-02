@@ -1,0 +1,36 @@
+Language: arb
+Total Samples: 3380
+
+Label Distribution:
+  Gender/Sexual: 369 (10.92%)
+  Other: 565 (16.72%)
+  Racial/Ethnic: 583 (17.25%)
+  Political: 780 (23.08%)
+  Religious: 283 (8.37%)
+
+Dominant Class: Political
+
+Zero-label instances: 1868
+Single-label instances: 684
+Multi-label instances: 828
+
+Text Length Stats (word count):
+  Average length: 16.71
+  Min length: 5
+  Max length: 88
+
+Emoji Statistics:
+  Total Emojis: 2370
+  Top Emojis:
+    # : 359
+    0 : 278
+    2 : 275
+    😂 : 268
+    1 : 152
+    5 : 109
+    🤣 : 75
+    4 : 72
+    3 : 58
+    6 : 56
+
+Analysis Complete.

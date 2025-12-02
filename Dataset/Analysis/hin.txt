@@ -1,0 +1,36 @@
+Language: hin
+Total Samples: 2744
+
+Label Distribution:
+  Political: 2023 (73.72%)
+  Racial/Ethnic: 333 (12.14%)
+  Religious: 1611 (58.71%)
+  Other: 360 (13.12%)
+  Gender/Sexual: 315 (11.48%)
+
+Dominant Class: Political
+
+Zero-label instances: 398
+Single-label instances: 684
+Multi-label instances: 1662
+
+Text Length Stats (word count):
+  Average length: 26.45
+  Min length: 1
+  Max length: 80
+
+Emoji Statistics:
+  Total Emojis: 5007
+  Top Emojis:
+    # : 1464
+    2 : 657
+    0 : 581
+    1 : 349
+    5 : 339
+    4 : 166
+    3 : 147
+    🙏 : 141
+    🚩 : 128
+    😂 : 122
+
+Analysis Complete.

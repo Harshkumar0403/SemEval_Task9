@@ -1,0 +1,36 @@
+Language: zho
+Total Samples: 4280
+
+Label Distribution:
+  Racial/Ethnic: 968 (22.62%)
+  Gender/Sexual: 723 (16.89%)
+  Other: 368 (8.60%)
+  Political: 251 (5.86%)
+  Religious: 85 (1.99%)
+
+Dominant Class: Racial/Ethnic
+
+Zero-label instances: 2159
+Single-label instances: 1871
+Multi-label instances: 250
+
+Text Length Stats (word count):
+  Average length: 1.20
+  Min length: 1
+  Max length: 9
+
+Emoji Statistics:
+  Total Emojis: 1079
+  Top Emojis:
+    0 : 268
+    1 : 184
+    2 : 128
+    3 : 109
+    5 : 78
+    6 : 63
+    8 : 58
+    9 : 58
+    4 : 41
+    7 : 39
+
+Analysis Complete.

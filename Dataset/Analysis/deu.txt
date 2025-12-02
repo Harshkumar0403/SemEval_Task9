@@ -1,0 +1,36 @@
+Language: deu
+Total Samples: 3180
+
+Label Distribution:
+  Political: 1295 (40.72%)
+  Other: 439 (13.81%)
+  Racial/Ethnic: 589 (18.52%)
+  Religious: 354 (11.13%)
+  Gender/Sexual: 187 (5.88%)
+
+Dominant Class: Political
+
+Zero-label instances: 1668
+Single-label instances: 528
+Multi-label instances: 984
+
+Text Length Stats (word count):
+  Average length: 17.36
+  Min length: 2
+  Max length: 178
+
+Emoji Statistics:
+  Total Emojis: 1502
+  Top Emojis:
+    2 : 295
+    0 : 238
+    * : 175
+    1 : 144
+    # : 128
+    5 : 73
+    3 : 64
+    4 : 48
+    9 : 42
+    6 : 31
+
+Analysis Complete.

@@ -1,0 +1,8 @@
+=== CLASSWISE F1 SCORES ===
+political: 0.7143
+racial/ethnic: 0.5926
+religious: 0.6667
+gender/sexual: 0.3158
+other: 0.1111
+
+Macro F1: 0.4801

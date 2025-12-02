@@ -1,0 +1,36 @@
+Language: hau
+Total Samples: 3651
+
+Label Distribution:
+  Political: 178 (4.88%)
+  Religious: 93 (2.55%)
+  Racial/Ethnic: 115 (3.15%)
+  Gender/Sexual: 29 (0.79%)
+  Other: 14 (0.38%)
+
+Dominant Class: Political
+
+Zero-label instances: 3259
+Single-label instances: 355
+Multi-label instances: 37
+
+Text Length Stats (word count):
+  Average length: 19.65
+  Min length: 1
+  Max length: 468
+
+Emoji Statistics:
+  Total Emojis: 6466
+  Top Emojis:
+    # : 2499
+    😂 : 976
+    🤣 : 330
+    0 : 234
+    2 : 202
+    1 : 193
+    😭 : 112
+    4 : 94
+    3 : 83
+    9 : 81
+
+Analysis Complete.

@@ -1,0 +1,36 @@
+Language: urd
+Total Samples: 2849
+
+Label Distribution:
+  Political: 1900 (66.69%)
+  Racial/Ethnic: 1449 (50.86%)
+  Religious: 1485 (52.12%)
+  Gender/Sexual: 1335 (46.86%)
+  Other: 1328 (46.61%)
+
+Dominant Class: Political
+
+Zero-label instances: 873
+Single-label instances: 382
+Multi-label instances: 1594
+
+Text Length Stats (word count):
+  Average length: 18.25
+  Min length: 6
+  Max length: 36
+
+Emoji Statistics:
+  Total Emojis: 2921
+  Top Emojis:
+    # : 1491
+    😂 : 134
+    0 : 133
+    1 : 126
+    2 : 120
+    4 : 69
+    8 : 51
+    5 : 48
+    3 : 44
+    7 : 38
+
+Analysis Complete.

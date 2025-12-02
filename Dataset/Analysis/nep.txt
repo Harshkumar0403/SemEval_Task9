@@ -1,0 +1,32 @@
+Language: nep
+Total Samples: 2005
+
+Label Distribution:
+  Political: 345 (17.21%)
+  Other: 236 (11.77%)
+  Gender/Sexual: 105 (5.24%)
+  Racial/Ethnic: 281 (14.01%)
+  Religious: 159 (7.93%)
+
+Dominant Class: Political
+
+Zero-label instances: 997
+Single-label instances: 890
+Multi-label instances: 118
+
+Text Length Stats (word count):
+  Average length: 16.99
+  Min length: 4
+  Max length: 80
+
+Emoji Statistics:
+  Total Emojis: 8
+  Top Emojis:
+    2 : 2
+    1 : 2
+    0 : 1
+    3 : 1
+    7 : 1
+    5 : 1
+
+Analysis Complete.

@@ -1,0 +1,36 @@
+Language: fas
+Total Samples: 3295
+
+Label Distribution:
+  Political: 1447 (43.92%)
+  Religious: 317 (9.62%)
+  Racial/Ethnic: 80 (2.43%)
+  Gender/Sexual: 197 (5.98%)
+  Other: 798 (24.22%)
+
+Dominant Class: Political
+
+Zero-label instances: 855
+Single-label instances: 2091
+Multi-label instances: 349
+
+Text Length Stats (word count):
+  Average length: 19.29
+  Min length: 2
+  Max length: 69
+
+Emoji Statistics:
+  Total Emojis: 902
+  Top Emojis:
+    # : 209
+    😂 : 137
+    🤣 : 36
+    😐 : 23
+    🤦 : 23
+    0 : 21
+    1 : 19
+    🏻 : 18
+    😁 : 18
+    💔 : 14
+
+Analysis Complete.

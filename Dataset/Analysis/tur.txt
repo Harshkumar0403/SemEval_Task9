@@ -1,0 +1,36 @@
+Language: tur
+Total Samples: 2364
+
+Label Distribution:
+  Political: 1057 (44.71%)
+  Racial/Ethnic: 400 (16.92%)
+  Religious: 360 (15.23%)
+  Gender/Sexual: 113 (4.78%)
+  Other: 114 (4.82%)
+
+Dominant Class: Political
+
+Zero-label instances: 1209
+Single-label instances: 439
+Multi-label instances: 716
+
+Text Length Stats (word count):
+  Average length: 20.86
+  Min length: 4
+  Max length: 46
+
+Emoji Statistics:
+  Total Emojis: 4053
+  Top Emojis:
+    # : 793
+    0 : 489
+    1 : 486
+    * : 459
+    2 : 319
+    5 : 207
+    3 : 155
+    4 : 147
+    9 : 138
+    6 : 116
+
+Analysis Complete.
