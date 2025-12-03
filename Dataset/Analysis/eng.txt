@@ -1,36 +1,36 @@
 Language: eng
-Total Samples: 2676
+Total Samples: 3222
 
 Label Distribution:
-  Political: 996 (37.22%)
-  Religious: 106 (3.96%)
-  Racial/Ethnic: 264 (9.87%)
-  Gender/Sexual: 67 (2.50%)
-  Other: 121 (4.52%)
+  Political: 1150 (35.69%)
+  Religious: 112 (3.48%)
+  Racial/Ethnic: 281 (8.72%)
+  Gender/Sexual: 72 (2.23%)
+  Other: 126 (3.91%)
 
 Dominant Class: Political
 
-Zero-label instances: 1674
-Single-label instances: 590
-Multi-label instances: 412
+Zero-label instances: 2047
+Single-label instances: 749
+Multi-label instances: 426
 
 Text Length Stats (word count):
-  Average length: 12.38
+  Average length: 12.26
   Min length: 4
   Max length: 60
 
 Emoji Statistics:
-  Total Emojis: 912
+  Total Emojis: 1056
   Top Emojis:
-    2 : 216
-    0 : 213
-    1 : 121
-    5 : 82
-    4 : 73
-    3 : 62
-    6 : 45
-    7 : 36
-    8 : 31
-    9 : 29
+    0 : 254
+    2 : 248
+    1 : 141
+    5 : 89
+    4 : 86
+    3 : 73
+    6 : 49
+    7 : 41
+    8 : 37
+    9 : 34
 
 Analysis Complete.

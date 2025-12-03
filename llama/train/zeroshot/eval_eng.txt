@@ -4,6 +4,11 @@ racial/ethnic: 0.4375
 religious: 0.5161
 gender/sexual: 0.6000
 other: 0.2353
+<<<<<<< HEAD
 
 Macro F1: 0.4459
 
+=======
+
+Macro F1: 0.4459
+>>>>>>> added llama fewshot

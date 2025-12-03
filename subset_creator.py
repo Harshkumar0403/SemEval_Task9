@@ -6,8 +6,10 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 
 # Languages to process
-LANGUAGES = ["amh", "arb", "deu", "eng", "fas", "hau", "hin",
-             "ita", "nep", "spa", "tur", "urd", "zho"]
+#LANGUAGES = ["amh", "arb", "deu", "eng", "fas", "hau", "hin",
+#               "ita", "nep", "spa", "tur", "urd", "zho"]
+
+LANGUAGES = ["eng"]
 
 INPUT_DIR = "Dataset/Processed"
 OUTPUT_DIR = "Dataset/Subset"
